@@ -1,6 +1,5 @@
 FRONTEND:
-creat-react-app
-material-ui
+create-react-app
 
 BACKEND:
 node
